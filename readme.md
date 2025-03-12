@@ -4,7 +4,7 @@ To set up your project with Tailwind CSS and Capacitor, run the following comman
 
 ### 1. Initialize Tailwind CSS
 ```sh
-npx tailwindcss -i ./src/index.css -o ./src/output.css --watch
+npx tailwindcss -i ./src/index-i.css -o ./src/input-o.css --watch
 ```
 
 ### 2. Initialize Capacitor
